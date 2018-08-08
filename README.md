@@ -1,5 +1,5 @@
-#  APUE《UNIX环境高级编程（第3版）》学习笔记
-
+#  APUE(Advanced Programming in the UNIX)
+# 《UNIX环境高级编程（第3版）》学习笔记
 ## 本仓库内容
 
 1. Apue的源码仓库
